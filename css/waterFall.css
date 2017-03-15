@@ -1,0 +1,7 @@
+* { margin:0; padding:0; }
+body { padding-bottom:0px; }
+ul li { list-style:none; }
+div.waterFall { overflow:auto; zoom:1; width:966px;height: 400px; margin:100px; 100px; border:1px solid red;}
+div.waterFall ul { /*width:32.3%; *//*margin:0 0.5% 0.5% 0.5%; */float:left; }
+div.waterFall ul li { /*height:300px;*/ background:#ccc; margin:10px 0; }
+div.waterFall ul li img{width: 100%;height: 100%}
